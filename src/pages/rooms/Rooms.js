@@ -12,11 +12,11 @@ const Rooms = () => {
             backgroundColor: "#262424",
             color: "white",
             marginBottom: "50px",
+            marginTop: "50px",
             textAlign: "center",
           }}
         >
           호실을<br></br> 선택하세요.<p></p>
-          <br></br>
           <br></br>
           <Button
             text="306호"
@@ -34,6 +34,8 @@ const Rooms = () => {
               navigate("/rooms/428");
             }}
           />
+          <br />
+          <br />
         </p>
       </div>
       <br />
