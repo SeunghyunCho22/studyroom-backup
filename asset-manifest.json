@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studyroom-backup/static/css/main.ae3a4191.css",
+    "main.js": "/studyroom-backup/static/js/main.fcde7fc4.js",
+    "static/js/787.e7d9f3e9.chunk.js": "/studyroom-backup/static/js/787.e7d9f3e9.chunk.js",
+    "index.html": "/studyroom-backup/index.html",
+    "main.ae3a4191.css.map": "/studyroom-backup/static/css/main.ae3a4191.css.map",
+    "main.fcde7fc4.js.map": "/studyroom-backup/static/js/main.fcde7fc4.js.map",
+    "787.e7d9f3e9.chunk.js.map": "/studyroom-backup/static/js/787.e7d9f3e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3a4191.css",
+    "static/js/main.fcde7fc4.js"
+  ]
+}
